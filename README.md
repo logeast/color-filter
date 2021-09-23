@@ -6,7 +6,7 @@ The website is designed by [](). Powered by []().
 
 ## Contributing
 
-Fllow our contribution guidelines [here]() to contribute to the project.
+Fllow our contribution guidelines [here](./CONTRIBUTING.md) to contribute to the project.
 
 # Sponsors
 
